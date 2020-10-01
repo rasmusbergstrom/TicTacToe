@@ -1,0 +1,18 @@
+.grid-container {
+
+    display: grid;
+    grid-row-gap: 10px;
+    grid-column-gap: 10px;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    width: 400px;
+    height: 400px;
+    
+    
+  }
+.grid-gameblock { 
+    border-style: solid;
+    padding: 10px;
+    border-color: black;
+    
+}
